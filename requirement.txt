@@ -3,6 +3,7 @@ pandas
 matplotlib.pyplot
 seaborn
 sklearn
+scikit-learn
 pickle
 sklearn.metrics
 sklearn.linear_model
