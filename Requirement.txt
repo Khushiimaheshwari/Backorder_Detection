@@ -2,7 +2,7 @@ numpy
 pandas
 matplotlib.pyplot
 seaborn
-scikit-learn
+sklearn
 pickle
 sklearn.metrics
 sklearn.linear_model
