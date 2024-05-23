@@ -1,8 +1,7 @@
-python==3.12.1
 numpy==3.5.3
 pandas==1.24.2
 matplotlib==3.5.3
 seaborn==0.12.2
 scikit-learn==1.19.0
-pickle
+pickle==0.0.12
 
