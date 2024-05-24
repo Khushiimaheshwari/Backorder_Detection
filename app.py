@@ -8,7 +8,7 @@ with open(model_filename, 'rb') as file:
     model = pickle.load(file)
 
 # Streamlit app
-st.title('Backorder Prediction App')
+st.title('Backorder Prediction')
 
 # Input fields for features
 national_inv = st.number_input('National Inventory', value=0)
