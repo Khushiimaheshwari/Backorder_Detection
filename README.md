@@ -12,3 +12,5 @@ Approach: The classical machine learning tasks like Data Exploration, Data Clean
           best fit for the above case.
 
 Results: You have to build a solution that should able to predict the backorder sales for a particular product according to the provided dataset.
+
+Deployed Project Link - https://khushiimaheshwari-backorder-detection-app-wwdmsa.streamlit.app/
