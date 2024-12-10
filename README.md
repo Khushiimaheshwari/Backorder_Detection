@@ -1,6 +1,6 @@
 # Backorder Prediction Project 🚚
 
-This project was completed as part of a **Data Analytics - Virtual Internship** with **iNeuron**. 
+This project was completed as a part of **Data Analytics - Virtual Internship** with **iNeuron**. 
 
 ## Overview  
 Backorders are an inevitable challenge in supply chain management. By anticipating which products are likely to go into backorder, businesses can streamline planning at various levels, reducing unexpected strain on production, logistics, and transportation.  
