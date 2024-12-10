@@ -1,16 +1,48 @@
-It has two files of Dataset for training and testing as files are big we are not providing it with this but you can have it on ineuron site.
+# Backorder Prediction Project 🚚
 
-Dataset link - https://github.com/rodrigosantis1/backorder_prediction/blob/master/dataset.rar
+This project was completed as part of a **Data Analytics - Virtual Internship** with **iNeuron**. 
 
-ABOUT THE PROJECT
+## Overview  
+Backorders are an inevitable challenge in supply chain management. By anticipating which products are likely to go into backorder, businesses can streamline planning at various levels, reducing unexpected strain on production, logistics, and transportation.  
 
-Backorders are unavoidable, but by anticipating which things will be backordered, planning can be streamlined at several levels, preventing unexpected strain on production, logistics, 
-and transportation. ERP systems generate a lot of data (mainly structured) and also contain a lot of historical data; if this data can be properly utilized, a predictive model to forecast 
-backorders and plan accordingly can be constructed. Based on past data from inventories, supply chain, and sales, classify the products as going into backorder (Yes or No).
+The goal was to predict backorders in inventory management systems. Backorders, while unavoidable, can create unexpected strain on production, logistics, and transportation. By leveraging historical data from ERP systems, this project aims to construct a predictive model that forecasts backorders, allowing businesses to streamline planning and mitigate disruptions.  
 
-Approach: The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s 
-          best fit for the above case.
+The model classifies products into two categories:  
+- **Backorder**: Yes  
+- **Backorder**: No
 
-Results: You have to build a solution that should able to predict the backorder sales for a particular product according to the provided dataset.
+**Dataset link** - https://github.com/rodrigosantis1/backorder_prediction/blob/master/dataset.rar
 
-Deployed Project Link - https://khushiimaheshwari-backorder-detection-app-wwdmsa.streamlit.app/
+
+
+## Features  
+- **User-Friendly Interface**: A web-based user interface built with **Streamlit** for seamless interaction.  
+- **Deployment**: Fully deployed and accessible for users to predict backorders.  
+- **Machine Learning Workflow**:  
+  - **Data Exploration**: Gain insights from the provided dataset.  
+  - **Data Cleaning**: Handle missing values, outliers, and inconsistent data.  
+  - **Feature Engineering**: Extract meaningful features to improve model performance.  
+  - **Model Building and Testing**: Train and evaluate various ML algorithms to find the best fit.  
+
+
+
+## Results  
+The system predicts backorder sales for a particular product based on historical data, enabling businesses to:  
+- Reduce delays in production and logistics.  
+- Optimize inventory management.  
+- Enhance overall supply chain efficiency.
+
+
+## Technology Stack  
+- **Programming Language**: Python  
+- **Libraries and Tools**:  
+  - Data Analysis: Pandas, NumPy  
+  - Data Visualization: Matplotlib, Seaborn  
+  - Machine Learning: scikit-learn  
+  - Model Evaluation: Precision, Recall, F1-score metrics  
+- **Web Framework**: Streamlit  
+- **Deployment**: Streamlit Community Cloud
+  
+
+## Deployment 
+**Link to Deployed Project** - https://khushiimaheshwari-backorder-detection-app-wwdmsa.streamlit.app/
